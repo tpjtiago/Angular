@@ -25,7 +25,7 @@ export class AppComponent {
   alert2() {
     debugger
     console.log('2')
-    alert('OK Funcionou 2')
+    alert('OK Funcionou 220')
   }
   
 }
